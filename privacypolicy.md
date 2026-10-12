@@ -147,6 +147,6 @@ This Privacy Policy may be updated from time to time. The latest version will be
 
 **Application:** RiverCall  
 **Developer:** Lukáš Andrlík  
-**Privacy contact:** [rivercallapp@gmail.com]mailto: rivercallapp@gmail.com)
+**Privacy contact:** [rivercallapp@gmail.com](mailto: rivercallapp@gmail.com)
 
 For questions about this Privacy Policy or requests concerning personal data, please contact the developer using the email address above.
