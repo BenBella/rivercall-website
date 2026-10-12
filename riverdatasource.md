@@ -3,10 +3,29 @@ layout: minimal
 title: River Data Source
 ---
 
-### River Data Source — Rivermap API
+# River Data Source
 
-RiverCall retrieves public river information and water measurements from the Rivermap API.
+RiverCall retrieves public river information, whitewater section details, and water gauge measurements powered by the **Rivermap API**.
 
-The RiverCall backend provides public river data and does not maintain user accounts or user profiles as part of the functionality described in this policy.
+## About Rivermap
 
-When the application communicates with the API, technical information such as an IP address may be processed by the API server or its hosting infrastructure. The information actually recorded depends on the API and hosting configuration.
+[Rivermap](https://rivermap.org/info-home.php) is an open platform that aggregates hydrological data and whitewater section information across European rivers.
+
+The data provided includes:
+- **River Sections**: Section names, difficulty grades, lengths, vertical drops, and coordinates.
+- **Gauge Calibration**: Low Water (LW), Medium Water (MW), and High Water (HW) threshold calibrations.
+- **Water Level Measurements**: Real-time and historical water gauge readings (water level height and flow rate).
+
+## Data Sources & Accuracy
+
+Water level data and gauge measurements are collected from official national hydrological services and community contributions via Rivermap.
+
+While we strive to display timely and accurate information, water levels and river conditions change rapidly. Measurements are intended for informational and trip-planning purposes. Always assess river conditions on-site and exercise safety precautions.
+
+## Privacy & Communication
+
+When the application fetches river data and gauge measurements, standard network requests are made to the API servers. No personal user profiles or location data are stored or shared as part of these requests.
+
+## Contact
+
+For questions or data feedback, please contact us at [rivercallapp@gmail.com](mailto:rivercallapp@gmail.com) or visit [rivermap.org](https://rivermap.org/info-home.php).

@@ -5,60 +5,28 @@ title: Open-Source Licences
 
 # Open-Source Licences
 
-RiverCall uses open-source software maintained by third-party authors and communities. We are grateful for their work.
+RiverCall is built using open-source software and libraries. We are grateful to the authors and open-source communities for their valuable contributions.
 
-This document is a template for RiverCall's third-party software notices. **Before publishing it, verify the libraries, versions, licence types, copyright notices, and required notice text against the actual Android and iOS release builds.** Include transitive dependencies and any bundled native libraries where their licences require attribution.
+## Key Open-Source Libraries
 
-## Third-Party Components
-
-Replace the example entries below with the components actually included in RiverCall.
-
-| Component | Version | Licence | Project |
-|---|---|---|---|
-| Kotlin | `<version>` | Apache License 2.0 | <https://kotlinlang.org/> |
-| Compose Multiplatform | `<version>` | Apache License 2.0 | <https://www.jetbrains.com/compose-multiplatform/> |
-| Ktor | `<version>` | Apache License 2.0 | <https://ktor.io/> |
-| MapLibre Native | `<version>` | BSD 2-Clause License | <https://maplibre.org/> |
-
-> The table above is illustrative, not a confirmed inventory of RiverCall dependencies. Remove components that are not shipped and add all required dependencies.
-
-## Licence Texts and Notices
-
-For each component, provide the licence text and any copyright or attribution notices required by its licence. Where appropriate, include the component's `LICENSE` and `NOTICE` files verbatim.
-
-### Apache License 2.0
-
-For components distributed under Apache License 2.0, include the applicable copyright notices and licence text, and preserve any required `NOTICE` content.
-
-Licence text: <https://www.apache.org/licenses/LICENSE-2.0>
-
-### BSD 2-Clause License
-
-For components distributed under the BSD 2-Clause License, include the applicable copyright notice, licence conditions, and disclaimer.
-
-For MapLibre Native, verify the exact licence and copyright text for the version included in the app.
-
-Project: <https://maplibre.org/>
+| Library / Component | Licence | Project Link |
+|---|---|---|
+| Kotlin & KotlinX (Coroutines, Serialization, DateTime) | Apache License 2.0 | [kotlinlang.org](https://kotlinlang.org/) |
+| Compose Multiplatform | Apache License 2.0 | [jetbrains.com](https://www.jetbrains.com/compose-multiplatform/) |
+| AndroidX (Jetpack Compose, Room, Navigation, DataStore) | Apache License 2.0 | [developer.android.com](https://developer.android.com/jetpack) |
+| Koin (Dependency Injection) | Apache License 2.0 | [insert-koin.io](https://insert-koin.io/) |
+| Ktor (HTTP Client) | Apache License 2.0 | [ktor.io](https://ktor.io/) |
+| MapLibre Compose & Native | BSD 2-Clause License | [maplibre.org](https://maplibre.org/) |
+| MPAndroidChart / MPChartCompose | Apache License 2.0 | [github.com/PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) |
+| Napier (Logging) | Apache License 2.0 | [github.com/AAira/napier](https://github.com/AAira/napier) |
 
 ## Map Data Attribution
 
-Map-rendering software licences are separate from map-data attribution requirements. If RiverCall displays OpenStreetMap data, provide suitable attribution in the app and link to the OpenStreetMap copyright and licence page. Also identify the actual map-tile provider used by the app and comply with that provider's attribution and usage terms.
+RiverCall displays map tiles and geographical data powered by open-source map providers:
 
-OpenStreetMap copyright and licence: <https://www.openstreetmap.org/copyright>
-
-## How to Keep This File Accurate
-
-Before each release:
-
-1. Generate a dependency inventory for the Android release variant.
-2. Review iOS dependencies, including Swift Package Manager and CocoaPods dependencies if used.
-3. Include transitive dependencies and bundled native components where required.
-4. Confirm each component's exact version, licence, copyright notice, and any `NOTICE` obligations.
-5. Preserve the required licence text and notices; do not rely only on a link to the licence.
-6. Update this file whenever shipped dependencies change.
+- **OpenStreetMap**: Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).
+- **OpenFreeMap**: Tile hosting provided by [OpenFreeMap](https://openfreemap.org).
 
 ## Contact
 
-For questions about these notices, contact: **`<your support email>`**.
-
-
+If you have any questions regarding third-party software licences, please contact us at [rivercallapp@gmail.com](mailto:rivercallapp@gmail.com).

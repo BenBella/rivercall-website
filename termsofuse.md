@@ -5,125 +5,97 @@ title: Terms of Use
 
 # RiverCall — Terms of Use
 
-**Effective date:** `<YYYY-MM-DD>`
+**Effective date:** January 1, 2025
 
 Please read these Terms of Use before using RiverCall. By using the app, you agree to these terms. If you do not agree, do not use RiverCall.
 
-> **Before publishing:** This is a general template, not legal advice. Review it for your actual app features, business model, and applicable law. Replace the placeholders and remove or amend any statement that does not accurately describe RiverCall.
-
 ## 1. About RiverCall
 
-RiverCall provides information about rivers and river conditions to help users research and plan water-based activities.
+RiverCall provides river information, whitewater section descriptions, and water gauge measurements to help users research and plan water-based activities and paddling trips.
 
-**Operator:** `<legal name or business name>`  
-**Contact:** `<support email>`  
-**Website:** `<website URL>`
+- **Operator:** Lukáš Andrlík
+- **Contact:** [rivercallapp@gmail.com](mailto:rivercallapp@gmail.com)
+- **Website:** [https://rivercall.info](https://rivercall.info)
 
 ## 2. Using the App
 
-You may use RiverCall for lawful, personal purposes and in accordance with these Terms and applicable law.
+You may use RiverCall for lawful, personal, non-commercial purposes in accordance with these Terms and applicable law.
 
 You agree not to:
-
 - use the app unlawfully or in a way that infringes another person's rights;
-- attempt to disrupt, damage, or gain unauthorised access to the app or its services;
+- attempt to disrupt, damage, or gain unauthorised access to the app or its backend infrastructure;
 - interfere with the app's operation or misuse any service or data source;
 - misrepresent information obtained from the app as official, guaranteed, or professionally verified advice.
 
-You are responsible for ensuring that your use of the app is appropriate for your circumstances.
-
 ## 3. River Information Is Provided for General Guidance
 
-RiverCall may display river levels, measurements, descriptions, locations, and other information obtained from third-party sources, including the Rivermap API.
+RiverCall displays river levels, water measurements, descriptions, locations, difficulty grades, and calibration thresholds obtained from third-party sources, including the Rivermap API.
 
-Information may be delayed, incomplete, inaccurate, unavailable, or different from conditions at the river. Measurements and forecasts, where provided, may change rapidly. RiverCall does not guarantee that information is current, complete, accurate, or suitable for a particular trip.
+Information may be delayed, incomplete, inaccurate, or different from real-time conditions at the river. Measurements and water levels change rapidly. RiverCall does not guarantee that information is current, complete, accurate, or suitable for a particular trip.
 
-Always verify important information with appropriate primary sources and assess the actual conditions before entering a river.
+Always verify important information with official local hydrological services and assess actual conditions before entering a river.
 
 ## 4. Water Safety and Personal Responsibility
 
-**RiverCall is an information tool, not a safety system.** It does not replace your own judgement, training, local knowledge, professional instruction, official warnings, or advice from qualified guides.
+**RiverCall is an information tool, not a safety system.** It does not replace your own judgement, paddling skills, local knowledge, professional instruction, official warnings, or advice from qualified guides.
 
-Paddling and other river activities can involve serious risks, including injury, drowning, and death. River conditions can change quickly and may differ substantially from information displayed in the app.
+Whitewater kayaking, canoeing, rafting, and other river activities involve inherent risks, including serious injury, drowning, and death. River conditions change quickly and may differ substantially from information displayed in the app.
 
-Before an activity, you are responsible for:
-
-- assessing water levels, weather, flow, obstacles, access, and escape options;
-- choosing a river section and difficulty appropriate to your skills, equipment, and group;
-- checking current local information, closures, restrictions, and official warnings;
+Before any activity, you are responsible for:
+- assessing water levels, weather, flow rates, obstacles, access, and escape options;
+- choosing a river section and difficulty level appropriate to your skills, equipment, and group;
+- checking local river closures, restrictions, and official warnings;
 - carrying suitable safety equipment and knowing how to use it;
-- deciding whether to proceed, change plans, or stop.
+- deciding whether to proceed, alter plans, or cancel.
 
-Do not rely on RiverCall as your sole source of information for a safety-critical decision. If conditions are uncertain, do not proceed until you have verified them.
+Do not rely on RiverCall as your sole source of information for safety-critical decisions. If conditions are uncertain, do not proceed until you have verified them on-site.
 
 ## 5. Location and Device Features
 
-If you enable location access, RiverCall may use your device's location to provide location-related features. Availability and behaviour depend on your device settings and the app version.
+If you enable location access, RiverCall may use your device's location to display relevant map information. You can manage location permissions in your device settings at any time.
 
-You can manage location permissions in your device settings. See the RiverCall Privacy Policy for information about how personal information and device data are handled.
+See the [RiverCall Privacy Policy](https://rivercall.info/privacypolicy) for details on how location data is handled.
 
 ## 6. Third-Party Services and Content
 
-RiverCall may rely on third-party services, libraries, map data, map tiles, and information sources. These services may be subject to their own terms, licences, availability limits, and privacy policies.
+RiverCall relies on third-party services, libraries, map data, map tiles, and information sources (such as OpenStreetMap, OpenFreeMap, MapLibre, and Rivermap). These services are subject to their own terms and privacy policies.
 
-RiverCall does not control third-party services and is not responsible for their independent operation or content. This does not exclude any responsibility that cannot lawfully be excluded.
-
-Data and map attribution information may be provided in the app under **Partners & Sources** or another appropriate section.
+Data and map attribution details are available in the app under **Partners & Sources**.
 
 ## 7. Availability, Changes, and Discontinuation
 
-We may update, change, suspend, or discontinue features or parts of RiverCall, including where required for maintenance, security, technical reasons, or changes to third-party services.
-
-We aim to keep the app useful and available, but do not guarantee uninterrupted availability or that every feature will always be supported.
+We may update, change, suspend, or discontinue features or parts of RiverCall for maintenance, security, technical reasons, or changes to underlying third-party data providers.
 
 ## 8. Intellectual Property and Open-Source Software
 
-Unless otherwise stated, the RiverCall app's own name, branding, and original content are protected by applicable intellectual-property laws.
+Unless otherwise stated, RiverCall branding and original app content are protected by applicable intellectual-property laws.
 
-RiverCall may include open-source software. Such components remain subject to their respective licences. Third-party software notices are available in the app under **Open-Source Licences** or at `<open-source notices URL>`.
-
-Map data and other third-party content may have separate attribution and licence requirements.
+RiverCall includes open-source software. Third-party software notices and licences are available in the app under **Open-Source Licences** or at [https://rivercall.info/opensourcelicences](https://rivercall.info/opensourcelicences).
 
 ## 9. Disclaimer of Warranties
 
 To the extent permitted by applicable law, RiverCall is provided on an “as is” and “as available” basis, without guarantees that it will be error-free, continuously available, or suitable for a particular purpose.
 
-Nothing in these Terms excludes or limits a consumer right, warranty, or other protection that cannot legally be excluded or limited under applicable law.
-
 ## 10. Limitation of Liability
 
-To the extent permitted by applicable law, the operator of RiverCall is not liable for indirect or consequential loss arising from use of, or inability to use, the app, or from reliance on information displayed in it.
-
-Nothing in these Terms excludes or limits liability where such exclusion or limitation is prohibited by law, including any liability that cannot legally be excluded for personal injury, death, fraud, wilful misconduct, or other non-excludable matters.
+To the extent permitted by applicable law, the operator of RiverCall is not liable for any direct, indirect, or consequential loss or injury arising from the use of, or inability to use, the app, or from reliance on information displayed in it.
 
 ## 11. Privacy
 
-Use of RiverCall is also subject to the RiverCall Privacy Policy:
-
-`<privacy policy URL>`
-
-The Privacy Policy explains what information the app processes, how it is used, and how to contact us with privacy-related questions.
+Use of RiverCall is subject to the [RiverCall Privacy Policy](https://rivercall.info/privacypolicy).
 
 ## 12. Changes to These Terms
 
-We may update these Terms from time to time. The updated version will be published at `<terms of use URL>` and will show its effective date. Where required by law, we will provide notice or obtain consent for material changes.
-
-Your continued use of RiverCall after updated Terms take effect means you accept them, to the extent permitted by applicable law.
+We may update these Terms from time to time. Updated versions will be published at [https://rivercall.info/termsofuse](https://rivercall.info/termsofuse) showing the effective date.
 
 ## 13. Governing Law and Disputes
 
-These Terms are subject to the laws of `<country or jurisdiction>`, except where mandatory consumer-protection laws provide otherwise.
-
-Any dispute will be handled by the courts or other dispute-resolution bodies with jurisdiction under applicable law. Nothing in this section deprives consumers of mandatory rights to bring proceedings in their place of residence where such rights apply.
+These Terms are governed by the laws of the **Czech Republic**, except where mandatory consumer-protection laws of your country of residence provide otherwise.
 
 ## 14. Contact
 
-For questions about these Terms, contact:
+For questions about these Terms, please contact:
 
-**`<legal name or business name>`**  
-Email: `<support email>`  
-Website: `<website URL>`
-
----
-
-*This document is a template. Complete all placeholders, confirm that each section reflects RiverCall's actual behaviour, and obtain appropriate legal review before publication.*
+**Lukáš Andrlík**  
+Email: [rivercallapp@gmail.com](mailto:rivercallapp@gmail.com)  
+Website: [https://rivercall.info](https://rivercall.info)
