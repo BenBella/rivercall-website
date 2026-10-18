@@ -1,9 +1,4 @@
----
-layout: minimal
-title: River Data Source
----
-
-# River Data Source
+## River Data Source
 
 RiverCall retrieves public river information, whitewater section details, and water gauge measurements powered by the **Rivermap API**.
 

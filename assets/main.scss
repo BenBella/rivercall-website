@@ -1,0 +1,25 @@
+---
+---
+
+@import "minima";
+
+/* RiverCall custom styles */
+.site-header {
+  border-top: none;
+  border-bottom: none;
+}
+
+.site-title {
+  display: inline-flex;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.site-logo {
+  display: block;
+  height: 76px;
+  width: 302px;
+}

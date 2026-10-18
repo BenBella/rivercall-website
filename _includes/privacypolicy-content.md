@@ -1,13 +1,8 @@
----
-layout: minimal
-title: Privacy Policy
----
+## Privacy Policy
 
-# RiverCall Privacy Policy
+**Last updated:** January 1, 2025
 
-**Last updated: January 1, 2025**
-
-RiverCall is a mobile application developed and maintained by **Lukáš Andrlík** (“the developer”). This policy explains what information is processed when using the RiverCall application and website ([https://rivercall.info](https://rivercall.info)).
+RiverCall is a mobile application developed and maintained by **Lukáš Andrlík**. This policy explains what information is processed when using the RiverCall application and website ([https://rivercall.info](https://rivercall.info)).
 
 ## 1. Information Processed
 

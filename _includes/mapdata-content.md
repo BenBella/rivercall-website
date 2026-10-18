@@ -1,9 +1,11 @@
----
-layout: minimal
-title: Map Data & Attribution
----
+## Map Data & Attribution
 
-### MapLibre and OpenStreetMap
+RiverCall displays map tiles and geographical data powered by open-source map providers:
+
+- **OpenStreetMap**: Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright).
+- **OpenFreeMap**: Tile hosting provided by [OpenFreeMap](https://openfreemap.org).
+
+## MapLibre and OpenStreetMap
 
 RiverCall uses MapLibre technology to display maps based on OpenStreetMap data.
 
