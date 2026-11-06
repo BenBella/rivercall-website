@@ -2,6 +2,10 @@
 
 RiverCall is a mobile application developed and maintained by **Lukáš Andrlík**. Designed for kayakers, canoeists, rafters, and outdoor enthusiasts, RiverCall provides real-time river data, whitewater section details, and water gauge measurements across European rivers.
 
+<br>
+{% include app-store-badge.html %}
+<br><br>
+
 ## What RiverCall Offers
 
 - **Interactive Map & Exploration**: Explore river sections and gauge stations on an interactive map powered by MapLibre, OpenFreeMap, and OpenStreetMap.

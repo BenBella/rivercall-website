@@ -2,6 +2,7 @@ title: RiverCall
 description: River conditions and whitewater kayaking information
 url: "https://www.rivercall.info"
 baseurl: ""
+app_store_id: 6828411497
 theme: minima
 
 minima:
